@@ -1,3 +1,11 @@
 # Calculator
 
-Build a basic calculator with HTML, CSS (grid and flex) and JavaScript
+Build a basic calculator with:
+*HTML
+*CSS 
+  **Grid 
+  **Flex 
+  **Custom Variables
+  **Pseudo-class
+  
+*JavaScript
